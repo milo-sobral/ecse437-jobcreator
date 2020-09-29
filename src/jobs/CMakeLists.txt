@@ -1,3 +1,5 @@
+# MUST BE PLACED: src/jobs/CMakeLists.txt
+
 # Set the project name
 project (jobs)
 

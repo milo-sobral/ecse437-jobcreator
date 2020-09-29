@@ -1,3 +1,5 @@
+# MUST BE PLACED: src/utils/CMakeLists.txt
+
 # Set the project name
 project (utils)
 

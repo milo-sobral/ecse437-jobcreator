@@ -1,3 +1,5 @@
+# MUST BE PLACED: src/CMakeLists.txt
+
 cmake_minimum_required(VERSION 3.10)
 
 # set the project name
